@@ -1,4 +1,4 @@
-public class companhiaAerea{
+public class companhiaAerea {
 
     String nome_companhia;
     int codigo;
